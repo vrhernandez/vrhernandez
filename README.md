@@ -15,16 +15,25 @@
   <img src="https://komarev.com/ghpvc/?username=vrhernandez&style=flat-square&color=blue" alt=""/>
 </div>
 
-- 🔭 I’m currently working on Scrimba's Frontend Developer Pathway Course
-- 🌱 I’m currently learning essential Javascript concepts
+<div align="center">
+  <img src="<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>" width="600" height="300"/>
+</div>
+
+## 👨‍💻 About Me:
+I am a Frontend Developer from California, USA ☀️
+- 😄 Pronouns: he/him
+- 🔭 Currently working on Scrimba's Frontend Developer Career Course.
+- 🌱 I’m currently learning essential Javascript concepts.
+- ⚡ In my free time I enjoy hiking and drawing.
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-vicente--r--hernandez-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vicente-r-hernandez/)
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ... -->
-- 😄 Pronouns: he/him
+- 💬 Ask me about ... -->
 <!-- - ⚡ Fun fact: ... -->
 
-## Tools I use:
+## 🛠️ Languages and Tools:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
