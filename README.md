@@ -25,8 +25,8 @@
 I am a Frontend Developer from California, USA ☀️
 - 😄 Pronouns: he/him
 - 🔭 Currently working on Scrimba's Frontend Developer Career Course.
-- 🌱 I’m currently learning essential Javascript concepts.
-- ⚡ In my free time I enjoy hiking and drawing.
+- 🌱 I’m currently learning how to work with APIs.
+- ⚡ In my free time I enjoy hiking and making music :)
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-vicente--r--hernandez-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vicente-r-hernandez/)
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
